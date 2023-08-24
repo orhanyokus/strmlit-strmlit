@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Path to the Excel file
-excel_file_path = r'C:\Users\ayefr\OneDrive\Masaüstü\python\STOK.xlsx'
+excel_file_path = 'STOK.xlsx'
 
 # Load the Excel data
 def load_excel_data():
